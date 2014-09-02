@@ -15,5 +15,5 @@ As we know we can use the mysql engine 'memory' will be better if the server hav
 >    ENGINE=MEMORY   
 >    ROW_FORMAT=DEFAULT   
 
-####handleWithRedis.php####  
+####handleWithRedis.php
 *This file will introduce how to handle session store by redis*
