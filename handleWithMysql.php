@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * session save handler by mysql
+ */
 class SessionSaveHandle
 {
     public $lifeTime;
